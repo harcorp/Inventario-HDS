@@ -1,0 +1,19 @@
+body{
+    background-color: #222d32;
+}
+.margen-superior{
+  margin-top:10px;
+}
+.margen-inferior{
+  margin-bottom:10px;
+}
+.error-message{
+    color: red;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+    width: 100%;
+}
+.h1, .h2, .h3, h1, h2, h3{
+  margin-top:10px;
+}
